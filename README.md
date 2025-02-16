@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm atrbjoxclark306
 
-<!--
-**atrbjoxclark306/atrbjoxclark306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎻 🎮 🏒 🎣 A keen learner of developer relations 🎻 🎮 🏒 🎣
 
-Here are some ideas to get you started:
+## About Me
+🎯 🎣 Exploring the world of UI/UX design 🎯 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 ✨ 🏑 A professional in internet of things 🏒 ✨ 🏑
+
+### Fun Facts
+🎵 🥊 🏑 A developer in web development 🎵 🥊 🏑
+
+---
+🚵 🎧 🎨 🏄 💻 Thanks for visiting my profile! 🎯 💻 🎭 🏊 🚣
